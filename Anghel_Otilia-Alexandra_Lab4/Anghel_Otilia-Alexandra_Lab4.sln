@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anghel_Otilia-Alexandra_Lab4", "Anghel_Otilia-Alexandra_Lab4.csproj", "{F3503306-4D8D-48B8-B984-32F112DC7D42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{403044FF-2A2C-45DE-A5DB-D42BF67B8AD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3503306-4D8D-48B8-B984-32F112DC7D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3503306-4D8D-48B8-B984-32F112DC7D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3503306-4D8D-48B8-B984-32F112DC7D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3503306-4D8D-48B8-B984-32F112DC7D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403044FF-2A2C-45DE-A5DB-D42BF67B8AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403044FF-2A2C-45DE-A5DB-D42BF67B8AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403044FF-2A2C-45DE-A5DB-D42BF67B8AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403044FF-2A2C-45DE-A5DB-D42BF67B8AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E45869-BE27-4DF5-B4C5-CCD894448610}
+	EndGlobalSection
+EndGlobal
